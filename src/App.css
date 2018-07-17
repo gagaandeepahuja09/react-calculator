@@ -1,0 +1,35 @@
+.display {
+  width: 94.6%;
+  height: 8rem;
+  padding: .2rem 1rem;
+  letter-spacing: .5rem;
+  font-size: 7.6rem;
+  background-color: #ccc;
+}
+
+.display:focus {
+  outline-width: 0;
+}
+
+.btn {
+  text-align: center;
+  border: 1px solid darkorange;
+  display: inline-block;
+  padding-top: 1rem;
+  height: 7rem;
+  width: 10.7rem;
+  font-weight: 400;
+  font-size: 4rem;
+  color: darkgrey;
+  background-color: orange;
+}
+
+.btn-equal {
+  background-color: grey;
+  color: salmon;
+  width: 32.3rem;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
